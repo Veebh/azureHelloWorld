@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>azureHelloWorld</name>
+    </assembly>
+    <members>
+        <member name="M:azureHelloWorld.Controllers.ValuesController.Get">
+            <summary>
+             GET api/values
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:azureHelloWorld.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            GET api/values/5
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
